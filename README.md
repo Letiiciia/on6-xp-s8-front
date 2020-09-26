@@ -2,8 +2,12 @@
 
 Clone o repositório na sua máquina e navegue até a pasta do projeto
 
+### `npm instll`
+Rode o commando `npm install` no terminal (dentro da pasta do projeto). Esse comando vai baixar as dependencias do projeto. <br />
+
+
 ### `npm start`
-Rode o commando `npm start` no seu terminal (dentro da pasta do projeto).<br />
+Depois de instalar as dependências, rode o commando `npm start`.<br />
 
 
 ### Ver o projeto no navegador

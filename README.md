@@ -2,7 +2,7 @@
 
 Clone o repositório na sua máquina e navegue até a pasta do projeto
 
-### `npm instll`
+### `npm install`
 Rode o commando `npm install` no terminal (dentro da pasta do projeto). Esse comando vai baixar as dependencias do projeto. <br />
 
 
